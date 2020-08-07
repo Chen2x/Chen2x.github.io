@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 
 class Header extends Component {
+    // styles = {
+    //     fontSize,
+    // };
+
     render() {
         return (
             <React.Fragment>
